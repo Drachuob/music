@@ -87,6 +87,7 @@ show_help() {
     nl
     stdin "Examples:"
     stdin "\t$FILE play"
+    stdin "\t$FILE play <FILE>"
     stdin "\t$FILE play random"
     nl
     stdin "\t$FILE download <URL>"

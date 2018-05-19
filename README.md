@@ -16,6 +16,7 @@ Options:
 
 Examples:
 	./script.sh play
+	./script.sh play <FILE>
 	./script.sh play random
 
 	./script.sh download <URL>
